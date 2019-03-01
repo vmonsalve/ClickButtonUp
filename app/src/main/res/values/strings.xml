@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Up Me</string>
+    <string name="button_up_counter">Click me up counter</string>
+    <string name="text_view_counter">Counter</string>
+</resources>
